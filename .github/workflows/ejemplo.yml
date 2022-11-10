@@ -4,7 +4,7 @@ on:
     inputs:
       username:
         description: 'A username passed from the caller workflow'
-        default: 'john-doe'
+        default: ''
         required: false
         type: string
 
